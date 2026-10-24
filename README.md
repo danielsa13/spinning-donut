@@ -2,10 +2,6 @@ Spinning Torus Renderer
 
 **A spinning 3D torus, rendered in Python — two different ways.**
 
-A project exploring the mathematics and logic behind 3D rendering, inspired by the classic [`donut.c`](https://www.a1k0n.net/2011/07/20/donut-math.html) demonstration.
-
-The project started with a Matplotlib implementation and evolved into a terminal renderer, where the geometry, depth testing, and lighting are translated into a grid of ASCII characters.
-
 ## Demonstrations
 
 <table>
@@ -61,8 +57,4 @@ python matplotlib_donut.py
 python terminal_donut.py
 ```
 
-## Inspiration & Acknowledgements
-
-Inspired by Andy Sloane's classic [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html).
-
-This project was an opportunity to explore the mathematics behind the animation and experiment with implementing the rendering process in different environments.
+**Inspiration** :[Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html).
