@@ -36,8 +36,8 @@ Spinning Torus Renderer
 
 | File | Description |
 |---|---|
-| `matplotlib_donut.py` | Animated torus using Matplotlib |
-| `terminal_donut.py` | Character-based terminal renderer |
+| `matplotlibdonut.py` | Animated torus using Matplotlib |
+| `terminaldonut.py` | Character-based terminal renderer |
 
 ## Running the Project
 
